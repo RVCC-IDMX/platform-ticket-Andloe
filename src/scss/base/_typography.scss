@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'PlayFair';
+    src: url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NTJosefine';
+    src: url('../fonts/NT Josefine (only personal use).otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RadgivareNo1';
+    src: url('../fonts/RadgivareNo1Demo_FREE_FOR_PERSONAL_USE_ONLY.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SweatPancakes';
+    src: url('../fonts/Sweet Pancakes.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MajesticSchnozz';
+    src: url('../fonts/Majestic Schnozz.otf') format('truetype');
+}
+
+h1 {
+    font-family: NTJosefine;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: RadgivareNo1;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+h3 {
+    font-family: SweetPancakes;
+    font-weight: 10px;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+h4 {
+    font-family: MajesticSchnozz;
+}
+
+h5 {
+    font-family: PlayFair;
+    letter-spacing: 4px;
+}
+
+p {
+    font-family: MajesticSchnozz;
+}
