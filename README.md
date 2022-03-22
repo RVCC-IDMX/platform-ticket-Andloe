@@ -32,3 +32,25 @@ When you want to stop the watcher, click in the terminal and press ctrl-c
    ```
 
 1. The final version of your site will be in the `dist` folder.
+
+# About This Project
+This project consists on replicating an old platform tichet by self hosting your own fonts, fonts needed to be different from each and try to match the original ticket. 
+
+# Original 1895 Platform Ticket
+![original](https://user-images.githubusercontent.com/71982450/159382806-f2ff5168-525e-4044-bbd3-54bfb803ec7e.png)
+
+# Inspiration
+
+[Olivia's Codepen](https://codepen.io/oliviale/pen/MZZYyO)
+
+# Font List
+
+[Majestic Schnozz](https://www.dafont.com/majestic-schnozz.font)
+
+[NT Josefine](https://www.dafont.com/nt-josefine.font)
+
+[Play Fair Display](https://fonts.google.com/specimen/Playfair+Display)
+
+[Radgivare No 1](https://www.dafont.com/radgivare-no-1.font)
+
+[Sweet Pancakes](https://www.dafont.com/sweet-pancakes.font)
